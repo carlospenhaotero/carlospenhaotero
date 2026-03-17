@@ -84,3 +84,4 @@ LLM integration • Prompt engineering • AI assisted development
 ---
 
 ⭐ Always open to interesting conversations about AI, Web3 or startups.
+
