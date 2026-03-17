@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jose Carlos Peña
+# 👋 Hey, I'm Carlos Peña
 
 Product Engineer focused on building at the intersection of **AI, Web3 and fintech**.
 
