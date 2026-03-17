@@ -64,7 +64,9 @@ LLM integration • Prompt engineering • AI assisted development
 ## 📫 Contact
 
 💼 LinkedIn → [carlospenaotero](https://www.linkedin.com/in/carlospenaotero/)
+
 📧 Email → carlospenhaotero@gmail.com
+
 🌍 Spain
 
 ---
