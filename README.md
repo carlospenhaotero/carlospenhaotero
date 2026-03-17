@@ -11,7 +11,7 @@ I like building real products, shipping fast and learning through execution. Cur
 🏦 **NextWorth**
 AI wealth management platform with portfolio analytics, predictions and automated rebalancing.
 
-⛓️ **Tokenization infrastructure @ [Metlabs](https://github.com/carlospena-metlabs)**
+⛓️ **Tokenization infrastructure @ [Metlabs](https://metlabs.io/)**
 Building blockchain solutions to digitize and tokenize traditional financial assets.
 
 🤖 **AI-powered development workflows**
