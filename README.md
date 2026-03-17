@@ -52,14 +52,6 @@ LLM integration • Prompt engineering • AI assisted development
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=carlospenhaotero&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlospenhaotero&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 2026 Goals
 
 • Build AI native financial products
