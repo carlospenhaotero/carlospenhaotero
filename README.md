@@ -1,8 +1,15 @@
-# 👋 Hey, I'm Carlos Peña
+<div align="center">
+
+# Hey, I'm Carlos Peña 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=520&lines=Product+Engineer;AI+%7C+Web3+%7C+Fintech;Building+real+products%2C+shipping+fast)](https://git.io/typing-svg)
 
 Product Engineer focused on building at the intersection of **AI, Web3 and fintech**.
 
-I like building real products, shipping fast and learning through execution. Currently working on blockchain infrastructure, tokenization and AI-powered financial tools.
+I like building real products, shipping fast and learning through execution.<br/>
+Currently working on blockchain infrastructure, tokenization and AI-powered financial tools.
+
+</div>
 
 ---
 
@@ -22,60 +29,76 @@ Integrating LLMs into real production environments to accelerate product develop
 ## ⚡ Tech Stack
 
 ### Languages
-JavaScript • TypeScript • SQL • HTML • CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
 
 ### Frontend
-React • Next.js • Tailwind
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ### Backend
-Node.js • PostgreSQL • Supabase • REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,prisma" />
+</p>
 
 ### Web3
-Smart Contracts • Tokenization • DeFi
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,ipfs" />
+</p>
 
 ### Cloud & DevOps
-AWS • Docker • Cloudflare • Vercel
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel" />
+</p>
 
-### AI
-LLM integration • Prompt engineering • AI assisted development
+### AI & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+</p>
 
 ---
 
 ## 🧠 Currently interested in
 
-• AI native products
-• Financial infrastructure
-• Web3 ecosystems
-• Startup building
-• Venture Capital
-• Alternative investments
+- AI native products
+- Financial infrastructure
+- Web3 ecosystems
+- Startup building
+- Venture Capital
+- Alternative investments
 
 ---
 
 ## 🎯 2026 Goals
 
-• Build AI native financial products
-• Go deeper into blockchain security
-• Contribute to serious Web3 projects
-• Keep shipping consistently
+- Build AI native financial products
+- Go deeper into blockchain security
+- Contribute to serious Web3 projects
+- Keep shipping consistently
 
 ---
 
 ## 📫 Contact
 
-💼 LinkedIn → [carlospenaotero](https://www.linkedin.com/in/carlospenaotero/)
-
-📧 Email → carlospenhaotero@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/carlospenaotero/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:carlospenhaotero@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 🌍 Spain
 
 ---
 
-## Philosophy
+<div align="center">
 
-> Build → Learn → Iterate → Repeat
-
----
+> **Build → Learn → Iterate → Repeat**
 
 ⭐ Always open to interesting conversations about AI, Web3 or startups.
 
+</div>
