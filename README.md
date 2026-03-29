@@ -50,7 +50,7 @@ Integrating LLMs into real production environments to accelerate product develop
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel,railway" />
 </p>
 
 ### AI & Tools
