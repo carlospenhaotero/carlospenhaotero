@@ -19,7 +19,7 @@ Currently working on blockchain infrastructure, tokenization and AI-powered fina
 AI wealth management platform with portfolio analytics, predictions and automated rebalancing.
 
 ⛓️ **Product Engineer @ [Metlabs](https://metlabs.io/)**
-Building tokenization infrastructure — blockchain solutions to digitize and fractionalize traditional financial assets.
+Building tokenization infrastructure, blockchain solutions to digitize and fractionalize traditional financial assets.
 
 🤖 **AI-powered development workflows**
 Integrating LLMs into real production environments to accelerate product development.
