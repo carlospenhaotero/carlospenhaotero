@@ -15,7 +15,7 @@ Currently working on blockchain infrastructure, tokenization and AI-powered fina
 
 ## 🚀 What I'm building
 
-🏦 **[NextWorth](https://next-worth-livid.vercel.app)** · [repo](https://github.com/carlospenhaotero/NextWorth)
+🏦 **[NextWorth](https://next-worth-livid.vercel.app)**
 AI wealth management platform with portfolio analytics, predictions and automated rebalancing.
 
 ⛓️ **Tokenization infrastructure @ [Metlabs](https://metlabs.io/)**
