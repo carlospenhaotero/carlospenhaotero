@@ -18,8 +18,8 @@ Currently working on blockchain infrastructure, tokenization and AI-powered fina
 🏦 **[NextWorth](https://next-worth-livid.vercel.app)**
 AI wealth management platform with portfolio analytics, predictions and automated rebalancing.
 
-⛓️ **Tokenization infrastructure @ [Metlabs](https://metlabs.io/)** ← currently working here
-Building blockchain solutions to digitize and tokenize traditional financial assets.
+⛓️ **Product Engineer @ [Metlabs](https://metlabs.io/)**
+Building tokenization infrastructure — blockchain solutions to digitize and fractionalize traditional financial assets.
 
 🤖 **AI-powered development workflows**
 Integrating LLMs into real production environments to accelerate product development.
